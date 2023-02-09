@@ -1,3 +1,11 @@
+This is a fork of freecodecamp's Hardhat Security repo.
+
+
+
+Two most common types of attacks:
+- Reentrancy
+- Oracle Manipulation
+
 # Hardhat Security
 
 This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Course. This part of the course is to help users understand basic security and some fundamentals of auditing.
